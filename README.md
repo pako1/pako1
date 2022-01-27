@@ -40,7 +40,7 @@
             </td>
             <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
                         src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
-            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
+            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px" width="32px"
                         src="https://i.imgur.com/eO5z1xV.png" /></a>
             </td>
             <td><a href="#"><img alt="Git" title="Git" height="28px"
@@ -54,8 +54,8 @@
             <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
                         src="https://i.imgur.com/6nJGNMN.png" /></a>
             </td>
-            <td><a href="#"><img alt="Firebase" title="Firebase" 
-                        src="https://github.com/pako1/pako1/blob/main/firebase.png" style="float:right;width:34px;height:34px;"/></a>
+            <td><a href="#"><img alt="Firebase" title="Firebase" height="28px"
+                        src="https://github.com/pako1/pako1/blob/main/firebase.png"/></a>
             </td>
           <td><a href="#"><img alt="Jira" title="Jira" height="28px"
                         src="https://github.com/pako1/pako1/blob/main/jira.png" /></a>
@@ -78,7 +78,7 @@
 
 ## 📫 Want to know where to find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filippos-katzilieris-752151151/)](https://www.linkedin.com/in/filippos-katzilieris-752151151/) ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9218755/pako1)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filippos-katzilieris-752151151/)](https://www.linkedin.com/in/filippos-katzilieris-752151151/) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9218755/pako1)](https://stackoverflow.com/users/9218755/pako1)
  
 <br></br>
 ## 🙏 Thanks For coming by!!
