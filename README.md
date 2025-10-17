@@ -71,8 +71,7 @@
 [![Pako1's GitHub stats](https://github-readme-stats.vercel.app/api?username=pako1&count_private=true&show_icons=true&bg_color=6c63ff&text_color=CECAFF&icon_color=CECAFF&title_color=CECAFF)](https://github.com/anuraghazra/github-readme-stats) &ensp; &ensp; [![Pako1's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pako1&title_color=CECAFF&text_color=CECAFF&icon_color=CECAFF&bg_color=6c63ff&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[![Pako1's github activity graph](https://activity-graph.herokuapp.com/graph?username=pako1&bg_color=6c63ff&color=cecaff&line=cecaff&point=3b3b3b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pako1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pako1&theme=dracula)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph))
 
 <br></br>
 
